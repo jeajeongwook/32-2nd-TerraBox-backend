@@ -14,22 +14,7 @@
 🍿 백엔드 깃헙 주소 : https://github.com/wecode-bootcamp-korea/32-2nd-TerraBox-backend
 🍿 프론트엔드 깃헙 주소 : https://github.com/wecode-bootcamp-korea/32-2nd-TerraBox-frontend
 
-# 구현한 기능
- 🍿 소셜로그인 / 소셜회원가입 / 토큰
- 
- ![테라박스 로그인](https://user-images.githubusercontent.com/100352385/169685706-4e11f19d-d861-416c-afb1-158bfdd90903.gif)
-
- 🍿 메인페이지
- 
-![테라박스메인](https://user-images.githubusercontent.com/100352385/169685528-27f6b864-80d1-4a37-a0df-99cbf935217f.gif)
-
- 🍿 영화 디테일/리뷰 페이지
- 
-![상세페이지1](https://user-images.githubusercontent.com/100352385/169685536-6c070ab9-bd38-4f64-8086-c05dd91ccb68.gif)
-![상세페이지2](https://user-images.githubusercontent.com/100352385/169685537-3c94f5c7-1ea7-4060-ab04-ec9c7ad0681b.gif)
-
- 🍿 영화관 위치
-
+# 내가 구현한 기능
  🍿 영화 예매 영화/영화관 선택
  
 ![예매 페이지](https://user-images.githubusercontent.com/100352385/169685539-582e4afc-dba3-434c-9709-2230e9d17c0b.gif)
